@@ -263,4 +263,4 @@ Stores:
 
 **Sergii Iuriev**
 
-Computational Research Scientist | Data Scientist |  AI/ML Engineer
+Data Scientist | AI/ML Developer | Software Engineer
